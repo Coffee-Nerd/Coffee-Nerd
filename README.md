@@ -49,7 +49,7 @@
 </p>
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Do you enjoy the community projects I work on? All of my projects are fueled by Coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/coffeenerd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffeenerd" /></a><a href="https://ko-fi.com/coffeenerd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeenerd" /></a></p><br><br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coffee-nerd&show_icons=true&locale=en" alt="coffee-nerd" /></p>
