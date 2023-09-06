@@ -11,12 +11,13 @@
 🤝 My diverse skillset allows me to excel in roles requiring adaptability, team collaboration, and a customer-centric approach. I'm currently open to opportunities that will allow me to leverage my managerial experience while diving deeper into the software development world.
 
 🔍 Specialties:
-
-Team Leadership & Staff Training
-Project Management
-Customer Experience Design
-Software Development (HTML, CSS, JavaScript, PHP, Lua)
-Business Consultancy
+<ul>
+<li>Team Leadership & Staff Training</li>
+<li>Project Management</li>
+<li>Customer Experience Design</li>
+<li>Software Development (HTML, CSS, JavaScript, PHP, Lua)</li>
+<li>Business Consultancy</li>
+</ul>
 
 🌱 I'm dedicated to continuous learning and am open to acquiring any necessary certifications to add value to future roles.
 
