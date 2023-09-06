@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer with an incredible thirst for knowledge!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffee-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="coffee-nerd" /> </p>
-👋 Hi there! I'm Jeff, a highly motivated professional with a passion for blending technology and customer experience. With over a decade in management, project management, and consulting, I'm no stranger to solving complex challenges and leading teams to success.
+👋 Hi there! I'm Jeff, a highly motivated professional with a passion for blending technology and customer experience. With over a decade in management, project management, and consulting, I'm no stranger to solving complex challenges and leading teams to success.<br><br>
 
 🌍 As the Founder of CoffeeID and World Latte Art, I've tapped into the global coffee community to create platforms that educate, inspire, and connect enthusiasts and professionals alike. My expertise in this field extends to being a Barista Coach, Head Barista, Judge, and Cafe Consultant. I've even expanded my footprint internationally by opening multiple cafes and roasteries in different parts of Saudi Arabia.
 
