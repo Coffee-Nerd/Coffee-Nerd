@@ -66,11 +66,15 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+</a>
 </p>
 
 
 <h3 align="left">Do you enjoy the community projects I work on? All of my projects are fueled by Coffee!</h3>
 <p><a href="https://www.buymeacoffee.com/coffeenerd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffeenerd" /></a><a href="https://ko-fi.com/coffeenerd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeenerd" /></a></p><br><br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coffee-nerd&show_icons=true&locale=en" alt="coffee-nerd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coffee-nerd&theme=dark" alt="coffee-nerd" /></p>
 
