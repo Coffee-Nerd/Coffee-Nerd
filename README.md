@@ -25,7 +25,7 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 
 - 🔭 I’m currently working on [CoffeeID](https://www.information.coffee)
 
-- 🌱 I’m currently learning **React, Laravel, Python.**
+- 🌱 I’m currently learning **Flutterflow, iOS development, Android Development**
 
 - 💬 Ask me about **anything.**
 
