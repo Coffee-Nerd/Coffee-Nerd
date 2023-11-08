@@ -79,6 +79,6 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 <h3 align="left">Do you enjoy the community projects I work on? All of my projects are fueled by Coffee!</h3>
 <p><a href="https://www.buymeacoffee.com/coffeenerd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffeenerd" /></a><a href="https://ko-fi.com/coffeenerd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeenerd" /></a></p><br><br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coffee-nerd&theme=dark" alt="coffee-nerd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmodeusbrooding&theme=dark" alt="private-account" /></p>
+<p align="center"> Here are both of my GitHub Accounts stats for your reference </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coffee-nerd&theme=dark" alt="coffee-nerd" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmodeusbrooding&theme=dark" alt="private-account" /></p>
 
