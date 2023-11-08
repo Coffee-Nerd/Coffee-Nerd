@@ -80,4 +80,5 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 <p><a href="https://www.buymeacoffee.com/coffeenerd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffeenerd" /></a><a href="https://ko-fi.com/coffeenerd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeenerd" /></a></p><br><br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coffee-nerd&theme=dark" alt="coffee-nerd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmodeusbrooding&theme=dark" alt="private-account" /></p>
 
