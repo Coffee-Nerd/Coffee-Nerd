@@ -6,7 +6,7 @@
 
 🌍 As the Founder of CoffeeID and World Latte Art, I've tapped into the global coffee community to create platforms that educate, inspire, and connect enthusiasts and professionals alike. My expertise in this field extends to being a Barista Coach, Head Barista, Judge, and Cafe Consultant. I've even expanded my footprint internationally by opening multiple cafes and roasteries in different parts of Saudi Arabia.
 
-💻 On the tech side, I'm an aspiring software developer skilled in HTML, CSS, PHP, Lua, and JavaScript. I've developed various applications and bots focused on automation, communication, and gaming. My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
+💻 On the tech side, I'm a software developer skilled in HTML, CSS, PHP, Lua, and JavaScript, and experienced in Bun, Astro, Tauri, Flutter, and many more.. I've developed various applications and bots focused on automation, communication, and gaming. My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
 
 🤝 My diverse skillset allows me to excel in roles requiring adaptability, team collaboration, and a customer-centric approach. I'm currently open to opportunities that will allow me to leverage my managerial experience while diving deeper into the software development world.
 
@@ -25,7 +25,7 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 
 - 🔭 I’m currently working on [CoffeeID](https://www.information.coffee)
 
-- 🌱 I’m currently learning **Flutterflow, iOS development, Android Development**
+- 🌱 I’m currently learning **RUST!**
 
 - 💬 Ask me about **anything.**
 
