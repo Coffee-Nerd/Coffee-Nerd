@@ -6,12 +6,15 @@
 
 🌍 As the Founder of CoffeeID and World Latte Art, I've tapped into the global coffee community to create platforms that educate, inspire, and connect enthusiasts and professionals alike. My expertise in this field extends to being a Barista Coach, Head Barista, Judge, and Cafe Consultant. I've even expanded my footprint internationally by opening multiple cafes and roasteries in different parts of Saudi Arabia.
 
-💻 On the tech side, I'm a software developer skilled in HTML, CSS, PHP, Lua, and JavaScript, and experienced in Bun, Astro, Tauri, Flutter, and many more.. I've developed various applications and bots focused on automation, communication, and gaming. My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
+💻 On the tech side, I'm a software developer with experience in HTML, CSS, PHP, Lua, JavaScript, Astro, Tauri, Flutter, and many more.. I've developed various applications and bots focused on automation, communication, and gaming, and utilities. My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
 
 🤝 My diverse skillset allows me to excel in roles requiring adaptability, team collaboration, and a customer-centric approach. I'm currently open to opportunities that will allow me to leverage my managerial experience while diving deeper into the software development world.
 
+I am also very well versed in building communities, with my main community being the largest online coffee group in the world, at 600,000+ members.
+
 🔍 Specialties:
 <ul>
+<li>Community Building</li>
 <li>Team Leadership & Staff Training</li>
 <li>Project Management</li>
 <li>Customer Experience Design</li>
@@ -73,9 +76,6 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 </p>
 
 
-<h3 align="left">Do you enjoy the community projects I work on? All of my projects are fueled by Coffee!</h3>
-<p><a href="https://www.buymeacoffee.com/coffeenerd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coffeenerd" /></a><a href="https://ko-fi.com/coffeenerd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="coffeenerd" /></a></p><br><br>
-<br>
 <p align="center"> Here are both of my GitHub Accounts stats for your reference </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coffee-nerd&theme=dark" alt="coffee-nerd" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmodeusbrooding&theme=dark" alt="private-account" /></p>
 
