@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer with an incredible thirst for knowledge!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffee-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="coffee-nerd" /> </p>
-👋 Hi there! I'm Jeff, a highly motivated professional with a passion for blending technology and customer experience. With over a decade in management, project management, and consulting, I'm no stranger to solving complex challenges and leading teams to success.<br><br>
+ Hi there! I'm Jeff, a highly motivated professional with a passion for blending technology and customer experience. With over a decade in management, project management, and consulting, I'm no stranger to solving complex challenges and leading teams to success.<br><br>
 
-🌍 As the Founder of CoffeeID and World Latte Art, I've tapped into the global coffee community to create platforms that educate, inspire, and connect enthusiasts and professionals alike. My expertise in this field extends to being a Barista Coach, Head Barista, Judge, and Cafe Consultant. I've even expanded my footprint internationally by opening multiple cafes and roasteries in different parts of Saudi Arabia.
+ I'm a software developer with experience in HTML, CSS, PHP, Lua, JavaScript, Astro, Tauri, Flutter, and many more.. I've developed various applications and bots focused on automation, communication, and gaming, and utilities. 
 
-💻 On the tech side, I'm a software developer with experience in HTML, CSS, PHP, Lua, JavaScript, Astro, Tauri, Flutter, and many more.. I've developed various applications and bots focused on automation, communication, and gaming, and utilities. My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
+ My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
 
-🤝 My diverse skillset allows me to excel in roles requiring adaptability, team collaboration, and a customer-centric approach. I'm currently open to opportunities that will allow me to leverage my managerial experience while diving deeper into the software development world.
+ My diverse skillset allows me to excel in roles requiring adaptability, team collaboration, and a customer-centric approach. I'm currently open to opportunities that will allow me to leverage my managerial experience while diving deeper into the software development world.
 
 I am also very well versed in building communities, with my main community being the largest online coffee group in the world, at 600,000+ members.
 
@@ -18,17 +18,18 @@ I am also very well versed in building communities, with my main community being
 <li>Team Leadership & Staff Training</li>
 <li>Project Management</li>
 <li>Customer Experience Design</li>
-<li>Software Development (HTML, CSS, JavaScript, PHP, Lua)</li>
+<li>Software Development/Web Development (HTML, CSS, JavaScript, PHP, Lua, Rust)</li>
 <li>Business Consultancy</li>
 </ul>
 
-🌱 I'm dedicated to continuous learning and am open to acquiring any necessary certifications to add value to future roles.
+ I'm dedicated to continuous learning and am open to acquiring any necessary certifications to add value to future roles.
 
 Feel free to reach out for collaboration, opportunities, or if you just want to connect! 
 
-- 🔭 I’m currently working on [CoffeeID](https://www.information.coffee)
+- 🔭 I’m currently working on **CoffeeID**, which is a global coffee information database, marketplace, educational hub, and more! This includes a website, and cross-platform mobile app.
 
-- 🌱 I’m currently learning **RUST!**
+- 🦀 I’m currently learning **RUST!**, and working on [MudForge](https://github.com/Coffee-Nerd/MudForge), a Rust based fast, modern, and exstensible MUD client.
+- 🦀 I've also recently been working on a Rust crate called [UtilPrint](https://github.com/Coffee-Nerd/utilprint/), which makes it easy to use colors and unicode in your terminal prints.
 
 - 💬 Ask me about **anything.**
 
