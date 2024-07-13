@@ -27,8 +27,8 @@ I am also very well versed in building communities, with my main community being
 Feel free to reach out for collaboration, opportunities, or if you just want to connect! 
 
 - 🔭 I’m currently working on **CoffeeID**, which is a global coffee information database, marketplace, educational hub, and more! This includes a website, and cross-platform mobile app.
-
-- 🦀 I’m currently learning **RUST!**, and working on [MudForge](https://github.com/Coffee-Nerd/MudForge), a Rust based fast, modern, and exstensible MUD client.
+- 🎲 I currently own/maintain a 30+ year old MUD (Multi User Dungeon), written in C, called Dark Wizardry. I push changes almost daily.
+- 🦀 [MudForge](https://github.com/Coffee-Nerd/MudForge), a Rust based fast, modern, and exstensible MUD client. (Project currently on hold)
 - 🦀 I've also recently been working on a Rust crate called [UtilPrint](https://github.com/Coffee-Nerd/utilprint/), which makes it easy to use colors and unicode in your terminal prints.
 
 - 💬 Ask me about **anything.**
