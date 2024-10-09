@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coffee-nerd&label=Profile%20views&color=0e75b6&style=flat" alt="coffee-nerd" /> </p>
  Hi there! I'm Jeff, a highly motivated professional with a passion for blending technology and customer experience. With over a decade in management, project management, and consulting, I'm no stranger to solving complex challenges and leading teams to success.<br><br>
 
- I'm a software developer with experience in HTML, CSS, PHP, Lua, JavaScript, Astro, Tauri, Flutter, and many more.. I've developed various applications and bots focused on automation, communication, and gaming, and utilities. 
+ I'm a software developer with experience in a diverse set of languages. I've developed various applications and bots focused on SaaS, automation, communication, gaming, and utilities. 
 
  My strengths in clear and open communication, problem-solving, and efficiency translate seamlessly into the tech industry.
 
@@ -18,18 +18,18 @@ I am also very well versed in building communities, with my main community being
 <li>Team Leadership & Staff Training</li>
 <li>Project Management</li>
 <li>Customer Experience Design</li>
-<li>Software Development/Web Development (HTML, CSS, JavaScript, PHP, Lua, Rust)</li>
+<li>Software Development/Web Development (C, Rust, Lua, HTML, CSS, JavaScript, PHP, and more)</li>
 <li>Business Consultancy</li>
 </ul>
 
- I'm dedicated to continuous learning and am open to acquiring any necessary certifications to add value to future roles.
+I'm dedicated to continuous learning and am open to acquiring any necessary certifications to add value to future roles.
 
 Feel free to reach out for collaboration, opportunities, or if you just want to connect! 
 
 - 🔭 I’m currently working on **CoffeeID**, which is a global coffee information database, marketplace, educational hub, and more! This includes a website, and cross-platform mobile app.
 - 🎲 I currently own/maintain a 30+ year old MUD (Multi User Dungeon), written in C, called Dark Wizardry. I push changes almost daily. I also made a custom graphical [client](https://github.com/Coffee-Nerd/DarkMUSH).
-- 🦀 [MudForge](https://github.com/Coffee-Nerd/MudForge), a Rust based fast, modern, and exstensible MUD client. (Project currently on hold)
-- 🦀 I've also recently been working on a Rust crate called [UtilPrint](https://github.com/Coffee-Nerd/utilprint/), which makes it easy to use colors and unicode in your terminal prints.
+- 🦀 [MudForge](https://github.com/Coffee-Nerd/MudForge), a Rust based fast, modern, and extensible MUD client. (Project currently on hold)
+- 🦀 I've also recently been working on a Rust crate called [UtilPrint](https://crates.io/crates/utilprint), which makes it easy to use colors and unicode (like emojis) in your terminal prints.
 
 - 💬 Ask me about **anything.**
 
