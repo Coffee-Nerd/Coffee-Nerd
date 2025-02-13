@@ -28,8 +28,8 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 
 - 🔭 I’m currently working on **CoffeeID**, which is a global coffee information database, marketplace, educational hub, and more! This includes a website, and cross-platform mobile app.
 - 🎲 I currently own/maintain a 30+ year old MUD (Multi User Dungeon), written in C, called Dark Wizardry. I push changes almost daily. I also made a custom graphical [client](https://github.com/Coffee-Nerd/DarkMUSH).
-- 🦀 [MudForge](https://github.com/Coffee-Nerd/MudForge), a Rust based fast, modern, and extensible MUD client. (Project currently on hold)
-- 🦀 I've also recently been working on a Rust crate called [UtilPrint](https://crates.io/crates/utilprint), which makes it easy to use colors and unicode (like emojis) in your terminal prints.
+- 🦀 [MudForge TUI](https://github.com/Coffee-Nerd/MudForge-TUI), a modern, fast, Rust based TUI mud client.
+- 🦀 I've also recently been working on a Rust crate called [UtilPrint](https://crates.io/crates/utilprint), which makes it easy to use colors and unicode (like emojis) in your terminal prints. This crate has been downloaded thousands of times.
 
 - 💬 Ask me about **anything.**
 
