@@ -76,7 +76,3 @@ Feel free to reach out for collaboration, opportunities, or if you just want to 
 </a>
 </p>
 
-
-<p align="center"> Here are both of my GitHub Accounts stats for your reference </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coffee-nerd&theme=dark" alt="coffee-nerd" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmodeusbrooding&theme=dark" alt="private-account" /></p>
-
